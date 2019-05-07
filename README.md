@@ -5,3 +5,4 @@ https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook
 ----------------------------------------------------------------------------------------
 #### This repo will help to understand architecture and Apache Spark
 
+https://github.com/paulwong888/vaquarkhan/tree/master/ESB/Spring%20Integration
